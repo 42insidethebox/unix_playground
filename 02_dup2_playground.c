@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MSG "TE AMO IVANNA\n"
+#define MSG "dup2 works!\n"
 
 int	main(void)
 {
